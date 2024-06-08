@@ -1,0 +1,850 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "nitesh",
+      "password": "123nitesh"
+    },
+   
+    {
+      "name": "Rahul kumar",
+      "password": "123@",
+      "id": 4
+    }
+  ],
+  "Diabetes": [
+    {
+      "id": 1,
+      "title": "Sugar Free Natura Low Calorie Sucralose Sweetener",
+      "description": "Sugar Free Gold Low Calorie Sweetener is a healthier alternative to sugar as it is made from aspartame, a protein derivative. It is suited as a tabletop sweetener for beverages like tea, coffee, milk, cornflakes, nimbu pani, fruit juices etc.",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/f4e1858536cc44ef851168a0b4f2fedc.jpg",
+      "price": 185
+    },
+    {
+      "id": 2,
+      "title": "Sucralose Sweetener Sugar Free",
+      "description": "Sugar Free Gold Low Calorie Sweetener is a healthier alternative to sugar as it is made from aspartame, a protein derivative. It is suited as a tabletop sweetener for beverages like tea, coffee, milk, cornflakes, nimbu pani, fruit juices etc.",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/8c5158bf2e344c098c8ab1cb2f60cfe4.jpg",
+      "price": 149
+    },
+    {
+      "id": 3,
+      "title": "Organic India Brown Jaggery",
+      "description": "Organic India Brown Jaggery is a natural sweetener that is a healthier alternative to processed sugar and artificial sweeteners. It is made from organic-certified sugarcane and contains no chemical additives, making it an ideal choice for those looking for a natural and unprocessed sweetener.",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/lckv5jqcnechxsfqzqvt.jpg",
+      "price": 83
+    },
+    {
+      "id": 4,
+      "title": "Satvyk Organic Jaggery Powder",
+      "description": "Satvyk Organic Jaggery Powder is loaded with antioxidants and minerals like zinc and selenium, which can help prevent free radical damage and boost resistance against infections.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6b653667927d447fa3901da50de6bb81.jpg",
+      "price": 65
+    },
+    {
+      "id": 5,
+      "title": "Lakanto Natural Sweetener-Classic Japanese Monkfruit",
+      "description": "Lakanto Monkfruit Sweetener with Erythritol Classic White Sugar Replacement Granules is a white sugar substitute that can be used for cookies, coffee, desserts, and other sweet, sugar-free sweets.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jadahxgbfiupbmy8sxve.jpg",
+      "price": 500
+    },
+    {
+      "id": 6,
+      "title": "Stevia World Natural Sweetener",
+      "description": "Stevia World Natural Sweetener is derived from the leaves of the Stevia plant, making it a zero-calorie sweetener suitable for diabetics and those looking to reduce their sugar intake. It can be used in beverages and various recipes.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/a327f87d753143318372a647e9a6b743.jpg",
+      "price": 200
+    },
+    {
+      "id": 7,
+      "title": "Nature's Sweet Monk Fruit Sweetener",
+      "description": "Nature's Sweet Monk Fruit Sweetener is a zero-calorie, natural sweetener made from monk fruit extract. It provides a sweet taste without the calories and can be used in baking and beverages.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/mqgjkxvdc9n66f2o39vv.jpg",
+      "price": 450
+    },
+    {
+      "id": 8,
+      "title": "Xylitol Natural Sweetener",
+      "description": "Xylitol Natural Sweetener is a sugar alcohol derived from natural sources like birch trees. It has 40% fewer calories than sugar and can be used in baking, coffee, tea, and other recipes.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/h89rmrkucsmvt6i6nado.jpg",
+      "price": 300
+    },
+    {
+      "id": 9,
+      "title": "Just Like Sugar Chicory Root Sweetener",
+      "description": "Just Like Sugar Chicory Root Sweetener is a natural, plant-based sweetener made from chicory root. It is suitable for those looking for a low-calorie alternative to sugar without any artificial ingredients.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/c18363c664cd4eb69bc96da2b2c359b5.jpg",
+      "price": 350
+    },
+    {
+      "id":10,
+      "title":"Dr. Reckeweg Syzygium Jamb Mother Tincture Q",
+      "description":"Dr. Reckeweg Syzygium Jamb Mother Tincture Q is a homoeopathic formulation that can help manage increased blood sugar levels. It aids in regulating blood sugar levels to bring it to the normal range. It also helps alleviate formication and prickly heat in the upper limbs.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/f743e6fb58284403abee085fe0b0ca74.jpg",
+      "price":264
+    },
+    {
+      "id":11,
+      "title":"Dr Willmar Schwabe India Rauwolfia Serpentina Mother Tincture Q",
+      "description":"Dr Willmar Schwabe India Rauvolfia Serpentina Mother Tincture is used to reduce high blood pressure, restlessness and sleeplessness in patients. It calms the nervous system down and reduces anxiety in those who are suffering from it.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dob0dimsm8luxmhz9bo2.jpg",
+      "price":101
+    },
+    {
+      "id":12,
+      "title":"Allen A32 Gout Drop",
+      "description":"Allen A32 Gout Drop is effective both for adults and children and helps in treating gout, degenerative inflammatory diseases of the smaller joints, and painful swellings.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/ybyhgbgbkoqb11f4aqlz.png",
+      "price":170
+    },
+    {
+      "id":13,
+      "title":"REPL Dr. Advice No.47 Goutidine Drop",
+      "description":"Indication:  Affects markedly the musceular tissues periosteum, and synovial membrances of joints. Has specific power of relieving the gouty paroxysms. If seems to more beneficial in chronic affections of these parts.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/atxy01dmvxa57khjwzge.jpg",
+      "price":180
+    },
+    {
+      "id":14,
+      "title":"Dr. Reckeweg JabJanosia Ashoka Mother Tincture Q",
+      "description":"Dr. Reckeweg JabJanosia Ashoka Mother Tincture Q is a natural remedy for female reproductive problems. Its stimulant, oxytocic and spasmogenic action makes it fit for acting on female organs.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/anrxwshtyfeaxajzoanm.jpg",
+      "price":315
+    },
+    {
+      "id":15,
+      "title":"Bjain Janosia Ashoka Mother Tincture Q",
+      "description":"Bjain Janosia Ashoka Mother Tincture is a well-known homoeopathic remedy for female complaints such as scanty menses. It is also an effective remedy for migraines.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/0202e46918ab43aa8547cfa0758cc0c3.jpg",
+      "price":105
+    },
+    {
+      "id":16,
+      "title":"Bakson's Homeopathy Janosia Ashoka Mother Tincture Q",
+      "description":"Bakson's Janosia Ashoka Mother Tincture Q has an extensive sphere of action on female genitals. It helps to get relief from amenorrhea and metrorrhagia.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/joym6rbrmg7a09dgtylk.jpg",
+      "price":99
+    },
+    {
+      "id":17,
+      "title":"Dr. Reckeweg JabJanosia Ashoka Mother Tincture Q",
+      "description":"Dr. Reckeweg JabJanosia Ashoka Mother Tincture Q is a natural remedy for female reproductive problems. Its stimulant, oxytocic and spasmogenic action makes it fit for acting on female organs. Research has found that it also possesses anti-helminthic activity. It helps in regulating irritable bladder and cures excessive nausea.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/rjf6hjsxtuwixyc4126b.jpg",
+      "price":970
+    },
+    {
+      "id":18,
+      "title":"SBL Rite-Hite Tablet",
+      "description":"SBL Rite-Hite Tablet is a homoeopathic formulation that can be helpful for children to support their growth and development, digestion, memory, and concentration.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/iudvuqb1pcuaxs1351lf.jpg",
+      "price":162
+    },
+    {
+      "id":19,
+      "title":"Noble Life Energy E19 Grow-On Height Gain Drop",
+      "description":"This medicine helps to boost the growth of the body. This supplement helps develop various parts of the body and increase stamina. It also helps to improve the overall height of the person.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/czyfwpsvhwvjgjammygb.jpg",
+      "price":235
+    },
+    {
+      "id":20,
+      "title":"Speed Height Capsule",
+      "description":"Speed Height Capsule boosts the natural process of growth and development of the body. It is a potent blend of natural ingredients that help in improving digestion and growth of the body. It helps in providing the required amount of energy to the body.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ngb0yzzckvcyfyeom3ql.jpg",
+      "price":368
+    }
+    
+  ],
+  "HeartCare": [
+    {
+      "id": 1,
+      "title": "Nutranext Vitamin B12 (Methycobalamin) Tablet",
+      "description": "Nutranext Vitamin B12 Mouth Dissolving Tablet Strawberry ensures faster absorption of vitamin B12 and can be taken anytime, anywhere. It comes in a delicious strawberry flavour to supplement your health.",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/1ca3f36e0dde4379a4d49ec914c82f91.jpg",
+      "price": 350
+    },
+    {
+      "id": 2,
+      "title": "Novaherbs Vit B12 1500mcg ",
+      "description": "Novaherbs Vit B12 1500mcg Veg Tablet helps to strengthen the body's immune system. The pill is good for producing energy and enhances cognitive wellness as well. Furthermore, bone and dental health are enhanced.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/gh8jkna4fbre1qyfvzak.jpg",
+      "price": 749
+    },
+    {
+      "id": 3,
+      "title": "Elcon Vitamin B12 (Methylcobalamin) 1500mcg",
+      "description": "Elcon Vitamin B 12 1500mcg Tablet is a dietary supplement that contains 1500 mcg methylcobalamin (vitamin B-12) per tablet. Methylcobalamin helps in the brain, nervous, and energy support in men and women as well as elderly people.",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/jqt1z5kro254jqduljbq.jpg",
+      "price": 696
+    },
+    {
+      "id": 4,
+      "title": "Inlife Vitamin B12 Nurospan with ALA, B6, Folic Acid",
+      "description": "Inlife Vitamin B12 ALA Tablet is a health supplement with a unique combination of vitamin B12, vitamin D3, folic acid, and ALA, which is easy to absorb and helps maintain a healthy nervous system, aiding in the metabolism of fats, carbohydrates, and protein.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/76cf59a879e24527805675c19903e731.jpg",
+      "price": 495
+    },
+    {
+      "id": 5,
+      "title": "Biotrex Vitamin B12 & ALA 1500mg",
+      "description": "Biotrex Vitamin B12 ALA Tablet contains a potent blend of ingredients which have numerous health benefits. Vitamin B12 is a water-soluble vitamin that keeps the nerves and red blood cells healthy while lipoic acid acts as a potent neuroprotective agent.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ed00364dd4454c4293480fc831ff1537.jpg",
+      "price": 525
+    },
+    {
+      "id": 6,
+      "title": "Himalayan Organics Plant Based Vitamin B12 500mg",
+      "description": "Himalayan Organics Organic B12 500mg Vegetarian Capsule is a health supplement that contains plant-based sources of vitamin B12 such as stevia leaves, alfalfa leaves, moringa, wheatgrass, and beetroot.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/de91a08b0992463ca5d628eba9600fc5.jpg",
+      "price": 699
+    },
+    {
+      "id": 7,
+      "title": "Carbamide Forte Methylcobalamin (Vitamin B12) 1500mcg",
+      "description": "Carbamide Forte Methylcobalamin Vitamin B12 Tablet contains the max concentration of Vitamin B12 in its most active and pure form- methylcobalamin. Vitamin B12 is a nutrient that helps keep the body’s blood and nerve cells healthy and helps make DNA, the genetic material in all the cells. ",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/7820f3b74c524b379f6cbc5993b16428.jpg",
+      "price": 500
+    },
+    {
+      "id": 8,
+      "title": "Nutranext Calcicare Chewable Tablet with Vitamin D2",
+      "description": "Nutranext Calcicare Chewable Tablet is a combination of ingredients that help in providing adequate calcium to your bones. This dietary supplement gives strength to your bones and joints and makes them strong. ",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fd34b3ce541d434da6baff71739348e6.jpg",
+      "price": 239
+    },
+    {
+      "id": 9,
+      "title": "Kiddoze Calcium + Vitamin D3",
+      "description": "Kiddoze Calcium + Vitamin D3 Gummies is a dietary supplement for children to promote physical and mental development and boost immunity. This supplement provides the required amount of vitamin D3 with calcium that helps strengthen the bones and make the child strong.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/n9v2omevifsqrqyf8kia.jpg",
+      "price": 600
+    },
+    {
+      "id": 10,
+      "title": "Zingavita Omega 3 Fish Oil 1000mg ",
+      "description": "Overall good health is the key to a happy and healthy life, but sometimes your food habits fall short of perfect. That's why you need something to bridge this gap.",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/rw5500pjyjbuaozribtl.jpg",
+      "price": 397
+    },
+    {
+      "id":11,
+      "title":"Organic India Natural Apple Cider Vinegar ACV",
+      "description":"Organic India Natural Apple Cider Vinegar is raw-unfiltered, non-pasteurised pure apple vinegar ‘with the mother’ that contains raw enzymes and gut-friendly bacteria to promote healing. It has cleansing, healing and energising health properties.",
+      "image":"https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/93f4692f9d704e8aaaf64d9fb7a786c0.jpg",
+      "price":506
+    },
+    {
+      "id":12,
+      "title":"Bragg Organic Apple Cider Vinegar ACV with the Mother",
+      "description":"Bragg Organic Raw Unfiltered Apple Cider Vinegar is formulated with the finest and most delectable organically grown apples. It possesses zesty organic goodness and has the 'mother' of vinegar.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wkt55unxahyylgxfoojy.jpg",
+      "price":1145
+    },
+    {
+      "id":13,
+      "title":"Dabur Himalayan Apple Cider Vinega",
+      "description":"Dabur Himalayan Apple Cider Vinegar with Mother of Vinegar Raw, Unfiltered, Unpasteurized can support your overall wellness and gut health. It reduces food cravings and naturally controls the appetite, which aids in weight management. It can also help lower your blood sugar levels and manage diabetes.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/1d08b62da1ad4d95b8aac7a18b6bc1a9.jpg",
+      "price":350
+    },
+    {
+      "id":14,
+      "title":"AVG Apple Cider Vinegar ACV Filtered for Weight Management & Metabolism",
+      "description":"AVG Apple Cider Vinegar Filtered is formulated from naturally fermented sun-grown ripe apples. It can help improve metabolism and support better digestion. It aids in reducing indigestion and other stomach discomforts. It can support weight management and improve overall health and well-being.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/tcjf4btdrzrgsqfgetmz.png",
+      "price":205
+    },
+    {
+      "id":15,
+      "title":"Zandu Organic Apple Cider Vinegar ACV with The Mother",
+      "description":"Zandu organic apple cider vinegar is made from the rich cold-press juice of organic apples found in the Himalayas and is prepared with the goodness of mother of vinegar, which is considered to be the purest form of the vinegar.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lynavqj3qympn8p6awpj.jpg",
+      "price":423
+    },
+    {
+      "id":16,
+      "title":"Dr. Vaidya's Apple Cider Vinegar Effervescent Tablets (15 Each) Bottle Apple Flavour",
+      "description":"Men and women worldwide have found high-quality Apple Cider Vinegar to be a safe, effective, and natural weight loss solution.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/7805eb9939784c918a3dc97acc3ea25f.jpg",
+      "price":315
+    },
+    {
+      "id":17,
+      "title":"Miduty Apple Cider Vinegar+",
+      "description":"Miduty Apple Cider Vinegar+ is formulated with the  of vinegar, having Fenugreek and Cinnamon extracts to accelerate metabolism and regulate blood sugar levels naturally. Apple Cider Vinegar considerably lowers blood sugar levels both after meals and while fasting.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/d0fe2152cdbe4de48271dd87736d1176.jpg",
+      "price":990
+    },
+    {
+      "id":18,
+      "title":"Kapiva Organic Apple Cider Vinegar",
+      "description":"Kapiva Organic Apple Cider Vinegar is made from pure and fresh Himalayan apples and is natural, raw, unfiltered, and unpasteurised. It helps in supporting weight loss and rids the body of toxins.",
+      "image":"https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/ed4f545a236844349c71d60fd999ccea.jpg",
+      "price":515
+    },
+    {
+      "id":19,
+      "title":"Neuherbs Organic Apple Cider Vinegar ACV with Mother",
+      "description":"Neuherbs Organic Apple Cider Vinegar with Mother-USDA Organic Certified-Raw, Unfiltered, Unpasteurized is used for multiple purposes like promoting the process of digestion, acting as a pain reliever for pains that arise due to rigorous exercise, soothing agent for dry throat and help achieve healthy skin.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ivvhu85lqx3xs49ycpj6.jpg",
+      "price":229
+    }
+    
+   
+  ],
+  "StomachCare": [
+    {
+      "id": 1,
+      "title": "Tata 1mg Antacid & Antigas Liquid for Heartburn, Indigestion",
+      "description": "Tata 1mg Antacid and Antigas Liquid provides fast relief from indigestion, heartburn, and gas. This antacid liquid formula is designed to quickly neutralize excess stomach acid and reduce uncomfortable bloating and pressure caused by gas.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/e710fc57b64f460ca23dca194fd46050.jpg",
+      "price": 103
+    },
+    {
+      "id": 2,
+      "title": "Digene Antacid Antigas Gel | For Acidity, Gas, Heartburn",
+      "description": "Digene Acidity & Gas Relief Gel can help provide quick relief from acidity and gas and other gas troubles like bloating and belching. The gel is formulated with Acidity Neutralising Capacity (ANC) to give quick and effective relief from acidity. ",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/68a13896b2b544498ed9cdce0e37ccec.jpg",
+      "price": 211
+    },
+    {
+      "id": 3,
+      "title": "Gelusil MPS Antacid & Antigas Original Liquid ",
+      "description": "Gelusil MPS Original liquid is a therapeutic digestive medication containing a balanced mix of ingredients that are widely used as an antacid, providing quick relief from acidity, heartburn and gas.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/xz9widg7enybeqeqlvf3.png",
+      "price": 184
+    },
+    {
+      "id": 4,
+      "title": "Dr Willmar Schwabe India Baptisia Tinctoria Dilution 6 CH",
+      "description": "Dr Willmar Schwabe India Baptisia Tinctoria Dilution is a useful homoeopathic remedy which helps in treating various health related complications. It treats debility, reduces high body temperature, treats malarial poisoning and extreme prostration.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/e9qllpkntw3i0jxgjbx7.jpg",
+      "price": 105
+    },
+    {
+      "id": 5,
+      "title": "Dr. Reckeweg Scirrhinum Dilution 200 CH",
+      "description": "Dr. Reckeweg Scirrhinum Dilution is a homoeopathic remedy derived from cancerous tissue, known for its potent therapeutic properties. This remedy is particularly utilised in the cases of hard, indurated glands, scar tissue, and certain types of chronic inflammation. ",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/obcospbqpjq61bz7fwp6.jpg",
+      "price": 160
+    },
+    {
+      "id": 6,
+      "title": "ADEL Merc Sol Dilution 200",
+      "description": "ADEL Merc Sol Dilution known as mercurius hydrargyrum, or quicksilver, this remedy is made from the powder of precipitated mercury, which makes this medicine safe and a great therapeutic drug.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/nkt9rvvmf12bywczj738.jpg",
+      "price": 180
+    },
+    {
+      "id": 7,
+      "title": "Solumiks Plantacid Syrup",
+      "description": "Solumiks Plantacid Syrup is an effective medicine to treat hyperacidity, heartburn, reflux esophagitis, and other acid peptic disorders. It helps to neutralise the excessive acid in the stomach and provides fast relief.",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/cropped/kyhdmatkfprilsiwbzep.jpg",
+      "price": 112
+    },
+    {
+      "id": 8,
+      "title": "Solumiks Plantacid Capsule",
+      "description": "Solumiks Plantacid Capsule is an effective medicine to treat hyperacidity, heartburn, reflux esophagitis, and other acid peptic disorders. It helps to neutralise the excessive acid in the stomach and provides fast relief.",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/cropped/t0wr9rcyf6c9ccplkicp.jpg",
+      "price": 54
+    },
+    {
+      "id": 9,
+      "title": "Solumiks Dilapsin Syrup",
+      "description": "Solumiks Dilapsin Syrup is a complete digestive, which helps in correcting the entire gastrointestinal functions such as stimulating appetite, ensuring proper digestion, improving liver functions and smooth bowel evacuation.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/bv4qyamtws0ozk9tu8in.jpg",
+      "price": 92
+    },
+    {
+      "id": 10,
+      "title": "Espumisan Gold Simethicone Capsule for Flatulence",
+      "description": "Espumisan Gold Capsule is effective anti-ulcer and anti-flatulent medicine. It has use in gas related flatulent dyspepsia, regurgitation.",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/83416696858f43bdaf46762bd11f5ca3.jpg",
+      "price": 71
+    },
+    {
+      "id":11,
+      "title":"Ulgel Oral Suspension Saunf Sugar Free",
+      "description":"Ulgel Oral Suspension Saunf Sugar Free is a combination medicine used in the treatment of acidity, stomach ulcer, bloating. It neutralizes excessive acid in the stomach and helps in easy passage of gas.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/800d1b8ce3da46f7b1afe9749bc95ccf.jpg",
+      "price":120
+    },
+    {
+      "id":12,
+      "title":"Ulgel Oral Suspension Elaichi Sugar Free",
+      "description":"Ulgel Oral Suspension Elaichi Sugar Free is a combination medicine used in the treatment of acidity, stomach ulcer, bloating. It neutralizes excessive acid in the stomach and helps in easy passage of gas.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/tgtnmjdvhycowpzvbxvg.png",
+      "price":114
+    },
+    {
+      "id":13,
+      "title":"Jiva Amla Tablet | Supports Immunity, Digestion, Hair & Skin Health",
+      "description":"Jiva Amla Tablet Jiva Amla Tablet is an Ayurvedic herbal supplement that contains Amla (Indian gooseberry) as its main ingredient. Amla is known for its rich nutritional profile and is considered the in Ayurveda due to its numerous health benefits.",
+      "image":"https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/l9cjlghpt1qkg0loabpw.jpg",
+      "price":130
+    },
+    {
+      "id":14,
+      "title":"Jiva DigestAll Tablet for Digestion & Appetite | Relieves Acidity, Bloating & Gas",
+      "description":"Jiva DigestAll Tablet is rich in dietary fibre which helps to bring relief from gastric distress. It acts as a natural remedy for digestive disorders such as indigestion, and constipation.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ot3wnvsry4zcm4dnwn8w.jpg",
+      "price":85
+    },
+    {
+      "id":15,
+      "title":"Jiva Aam Pachak Churna",
+      "description":"Jiva Aam Pachak Churna eases all abdominal discomforts that people usually feel after intake of heavy food or due to sluggish digestion. It helps to digest the food and also enhances appetite.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/f9ozhhmy2eem4xxbuagp.jpg",
+      "price":180
+    },
+    {
+      "id":16,
+      "title":"MDM Pachak Vati",
+      "description":"MDM Pachak Vati are a traditional ayurvedic digestive formulation that can be used to alleviate various digestive discomforts.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/8c43a2c4112c4d92ae40c0106401f633.jpg",
+      "price":285
+    },
+    {
+      "id":17,
+      "title":"Patanjali Ayurveda Pachak Ajwain with Aloe Vera",
+      "description":"Patanjali Ayurveda Pachak Ajwain with Aloe Vera is a unique formulation by patanjali, pachak ajwain with aloe vera combines the medicinal prowess of thymol oil and soothing goodness of aloe vera to bring you powerful digestive tabs. Fortified with ginger powder, bay leaf and coriander, the naturopathic preparation is a great option for daily digestive routine.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/31f6b0faf8c04d5cb117a17eff78f280.jpg",
+      "price":80
+    },
+    {
+      "id":18,
+      "title":"Patanjali Ayurveda Pachak Shodhit Harad",
+      "description":"Patanjali Ayurveda Pachak Shodhit Harad is an Ayurvedic formulation that is used to address various digestive discomforts. The product is effective in relieving painful urination or dysuria and can help manage ulcers, sore throat, and stomatitis.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/d4fba927e33047368f6035f2792b2f0b.jpg",
+      "price":45
+    },
+    {
+      "id":19,
+      "title":"Kapiva Ayur Foods Ashwagandha Gold Capsules with Shilajit & Gokshura",
+      "description":"It is a dietary supplement formulated with ashwagandha, shilajit, black musli and gokshura that can help improve your stamina and immunity. Ashwagandha has antioxidant and anti-inflammatory properties, which help protect the body against free radicals and boost immunity.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/adae9eba0590471289324410c7c9a7dd.jpg",
+      "price":279
+    },
+    {
+      "id":20,
+      "title":"Nutrabay Wellness Ashwagandha Tablet",
+      "description":"Nutrabay Wellness Ashwagandha Tablet can improve cognitive function by facilitating choline production in the body. In addition, it can help to reduce stress and enhance muscle endurance in both men and women.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/f5da2cd26b5142f6bcd04e597cf31efa.jpg",
+      "price":250
+    }
+  ],
+  "LiverCare": [
+    {
+      "id": 1,
+      "title": "Dabur Hepano Tablet | For Liver Health & Detoxification",
+      "description": "Dabur Hepano Tablet is an Ayurvedic formulation that can help protect liver tissues and prevent toxicity. It is beneficial for abnormal liver functions, which leads to fatty liver and other conditions.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/hseoziza8pxjxba1iyk1.jpg",
+      "price": 141
+    },
+    {
+      "id": 2,
+      "title": "Tata 1mg Tejasya Liver Care Tablets",
+      "description": "Tata 1mg Tejasya Liver Care Tablets are a blend of pure ayurvedic herbs such as bhringaraja, bhumiamla, himsra, kasni, arjuna, kakamachi, guduchi with other ayurvedic extracts.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c774eb51f308444d81ee603ee4397d63.jpg",
+      "price": 172
+    },
+    {
+      "id": 3,
+      "title": "Chandigarh Ayurved Centre Liver Care Tablet",
+      "description": "Chandigarh Ayurved Centre Liver Care Tablet is a purely ayurvedic formulation. CAC Liver Care tablets help in balancing pitta dosha. These tablets stimulate the growth of new liver cells, promote functions of the liver, and improve blood flow from the liver.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ndhvycwc9hvvoovjsw1b.jpg",
+      "price": 300
+    },
+    {
+      "id": 4,
+      "title": "Trexgenics Silymarin Plus Liver Care & Detox Veg Capsule",
+      "description": "Trexgenics Senna 20% Sennosides 500mg Veg Capsule is used for the support relief from constipation. Constipation is a condition in which there is difficulty in emptying the bowels, usually associated with hardened faeces.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/bp10cnuk12qqrlvkwg2l.jpg",
+      "price": 751
+    },
+    {
+      "id": 5,
+      "title": "Inlife Milk Thistle 400mg Capsule | For Liver Health & Metabolism",
+      "description": "Inlife Milk Thistle Capsule contains powerful antioxidants and is beneficial for various health issues. Milk thistle contains the highest concentration of the active compound, silymarin, an oxidant that can reduce free radical production and oxidative damage.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dcabc28529de4552a3639ef2eedb430a.jpg",
+      "price": 499
+    },
+    {
+      "id": 6,
+      "title": "Nutrabay Wellness Milk Thistle Extract Capsule",
+      "description": "Nutrabay Wellness Milk Thistle Extract Capsule works as a powerful antioxidant that helps prevent liver cells from damaging due to free radicals. It is also known to reduce blood glucose levels and cholesterol.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fedf39eb888c4470ba9200806bf6a16d.jpg",
+      "price": 496
+    },
+    {
+      "id": 7,
+      "title": "Biogetica Ashwagandha Capsule",
+      "description": "Biogetica Ashwagandha Capsule is made of high-quality, pure extracts of ashwagandha to effectively boost overall wellness. Ashwagandha is an ancient super herb that has been used in ayurvedic medicine for thousands of years. ",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/o5ysscouczsuxrxutdb2.jpg",
+      "price": 505
+    },
+    {
+      "id": 8,
+      "title": "Organic India Ashwagandha Ayurvedic Veg Capsule",
+      "description": "Organic India Ashwagandha Capsule is an Ayurvedic formula beneficial in managing low energy states and general exhaustion. It is also useful for those who have a tendency of contracting infections, cold and flu. ",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/1c84610a408d434a950e339b1267efae.jpg",
+      "price": 540
+    },
+    {
+      "id": 9,
+      "title": "TrueBasics Ashwagandha 600mg | Veg Capsule for Brain, Strength & Stress Relief",
+      "description": "TrueBasics Ashwagandha 600mg Vegetarian Capsule is a health supplement enriched with a scientifically proven ingredient KSM 66 ashwagandha extract, which helps alleviate stress while improving cognitive function.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/b54e8f7f-9696-4ffe-98b1-495eaddc52e6.jpeg",
+      "price": 889
+    },
+    {
+      "id": 10,
+      "title": "Jain Ashwagandha (Withania Somnifera) 850mg Tablet",
+      "description": "Jain Ashwagandha Tablet is one of the most vital herbs in ayurvedic healing and is used since ancient times for a wide variety of conditions, but ashwagandha is most well known for its restorative benefits.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ca43ac1ffb7c4d22ac232b3df5c8e64f.jpg",
+      "price": 195
+    },
+    {
+      "id":11,
+      "title":"Organic India LKC (Liver Kidney Care) Capsule",
+      "description":"The Organic India LKC Capsule are used to treat liver and kidney diseases like hepatitis, jaundice, and anaemia.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/fc1be75682684a3ab95a240765766411.jpg",
+      "price":213
+    
+    },
+    {
+      "id":12,
+      "title":"Vann Mantra Herbal Liver Detox Capsule",
+      "description":"It is a dietary supplement formulated with milk thistle, harad and other ingredients that support healthy liver functions. It promotes detoxification and the removal of toxins from the body.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/t5aux9ggl0ixitymb2lx.jpg",
+      "price":569
+    
+    },
+    {
+      "id":13,
+      "title":"Naturolax -A Ayurvedic Powder | Eases Constipation & Gas | Flavour Tasty Orange",
+      "description":"Naturolax -A Powder Tasty is an Ayurvedic proprietary formulation containing powdered form of natural Isabgol husk, an effective remedy for constipation. It is a natural fibre supplement which is also helpful in reducing cholesterol.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rzlshwibctfr2enkne28.jpg",
+      "price":351
+    
+    },
+    {
+      "id":14,
+      "title":"Carbamide Forte Liver Detox with Milk Thistle Extract 800mg+ Multivitamin",
+      "description":"Carbamide Forte Milk Thistle Extract Vegetarian Tablet is a health supplement for supporting liver health, formulated with milk thistle and 20 key liver-boosting ingredients. It may help lower blood cholesterol levels, reduce inflammation, and protect against cellular damage.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/6a94ae1a4d134b1fb2d50e4c0275af2a.jpg",
+      "price":937
+    
+    },
+    {
+      "id":15,
+      "title":"HealthyHey Milk Thistle Extract Vegetable Capsule",
+      "description":"HealthyHey Milk Thistle Extract Vegetable Capsule is a dietary supplement that contains milk thistle extract (Silymarin Marianum) in a 600mg dosage. Milk thistle extract, also known as Silymarin Marianum, is derived from the milk thistle plant and is known for its potential benefits in supporting liver health.",
+      "image":"https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/598fa1604566474ca542f5a17284c258.jpg",
+      "price":739
+    
+    },
+    {
+      "id":16,
+      "title":"Healthkart HK Vitals Milk Thistle Extract Capsule",
+      "description":"HealthKart HK Vitals Milk Thistle Extract Capsule is a liver support supplement that enhances the health of the liver. The liver is a critical organ of the body that helps support metabolism, immunity, digestion, and detoxification.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ed385fba57354e3e8bd8bbba1f92534d.jpg",
+      "price":725
+    
+    },
+    {
+      "id":17,
+      "title":"Dr. Vaidya's Herboslim Tablet (30 Each)",
+      "description":"Dr. Vaidya's Herboslim Tablet (30 Tablets) is an Ayurvedic formulation that offers several benefits related to weight loss and overall well-being. It is a natural weight loss supplement that is formulated using a combination of eight powerful herbs",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wmwgutnsl17kslwwd77x.jpg",
+      "price":415
+    
+    },
+    {
+      "id":18,
+      "title":"Way2Herbal Spirulina Tablet",
+      "description":"Way2Herbal Spirulina Tablet is enriched with vitamins, minerals, carotenoids. Spirulina is a single cell plant from blue algae species. It has antioxidants that helps to protect cells from damage.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/d9eb48c856314f65820e787a3c6dd57c.jpg",
+      "price":409
+    
+    },
+    {
+      "id":19,
+      "title":"Jairishi Spirulina Capsule",
+      "description":"Jairishi Spirulina Capsule helps boost your body’s immunity, promotes a healthy heart, and protects against chronic inflammation. It is packed with nutrients and vitamins that can help get rid of chronic diseases, improve your mental and physical health, and lose weight effectively. ",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx97pjafpetvrg2tnnat.jpg",
+      "price":456
+    
+    },
+    {
+      "id":20,
+      "title":"Baidyanath (Noida) Moringa Tablet",
+      "description":"Baidyanath Moringa Tablets are made from moringa leaves powder. These tablets contain 90 nutrients and 46 antioxidants. The tablets are nutritionally rich in vitamins, minerals, and amino acids",
+      "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lyej6am3wxcbg1lvffzs.jpg",
+      "price":400    
+    }
+    
+
+  ],
+  "KidneyCare": [
+    {
+      "id": 1,
+      "title": "Alkasol Oral Solution Sugar Free",
+      "description": "Alkasol Oral Solution Sugar Free is a medicine used in the treatment of gout and kidney stones. It stops the production of uric acid in the body and reduces the episodes of gout attack and prevent kidney stones.",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/1cc58b644c2847daa22453340b8a5906.jpg",
+      "price": 115
+    },
+    {
+      "id": 2,
+      "title": "Neeri Ayurvedic Syrup for Urinary Health",
+      "description": "Neeri Syrup is a natural and Ayurvedic syrup that helps enhance kidney health and function. It is formulated with 19 herbal extracts and powders that help detoxify the urinary tract and has nephroprotective properties.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/65ae77114a5b457997b291e35df8dbd1.jpg",
+      "price": 130
+    },
+    {
+      "id": 3,
+      "title": "Neeri KFT Sugar-Free Ayurveda Syrup | Supports Kidney Health",
+      "description": "Neeri KFT Sugar-Free Syrup is a poly-herbal ayurvedic proprietary formulation to help restore normalcy in kidney functional parameters",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/cropped/l06wcgi3luioychkaerc.jpg",
+      "price": 516
+    },
+    {
+      "id": 4,
+      "title": "Neeri Ayurvedic Syrup for Urinary Health",
+      "description": "Neeri Syrup is a natural and Ayurvedic syrup that helps enhance kidney health and function. It is formulated with 19 herbal extracts and powders that help detoxify the urinary tract and has nephroprotective properties.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/gjwydxaokuktuzd50u7u.jpg",
+      "price": 248
+    },
+    {
+      "id": 5,
+      "title": "Himalaya Cystone Tablet for Kidney Health",
+      "description": "Himalaya Cystone Tablet contains ingredients that possess diuretic, demulcent, and antimicrobial properties. Pasanabheda is known to soothe and protect irritated or inflamed internal tissue.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/003ae5a3a71442a9b62a5c9e7507c8ba.jpg",
+      "price": 190
+    },
+    {
+      "id": 6,
+      "title": "Organic India Liver-Kidney Care Veg Capsule",
+      "description": "Organic India Liver-Kidney Care Veg Capsule effectively supports both the liver and the kidneys as disorders of one affect the other. It is beneficial for all types of hepatitis, jaundice and anemias and regulates fat metabolism.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/8594c2e1590d4007862f6f42710c86d1.jpg",
+      "price": 595
+    },
+    {
+      "id": 7,
+      "title": "Organic India LKC (Liver Kidney Care) Capsule",
+      "description": "The Organic India LKC Capsule are used to treat liver and kidney diseases like hepatitis, jaundice, and anaemia.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fc1be75682684a3ab95a240765766411.jpg",
+      "price": 213
+    },
+    {
+      "id": 8,
+      "title": "Dabur Hepano Tablet | For Liver Health & Detoxification",
+      "description": "Dabur Hepano Tablet is an Ayurvedic formulation that can help protect liver tissues and prevent toxicity. It is beneficial for abnormal liver functions, which leads to fatty liver and other conditions. It protects the liver from various hepatotoxins such as heavy metals, synthetic chemicals, etc.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/hseoziza8pxjxba1iyk1.jpg",
+      "price": 143
+    },
+    {
+      "id": 9,
+      "title": "Dabur Haridra Khanda (Vrihat)",
+      "description": " It protects the liver from various hepatotoxins such as heavy metals, synthetic chemicals, etc., which can cause liver damage. The formulation maintains healthy liver functions and helps to improve appetite and digestion.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/stv8lbtnuppyi7uelgbh.png",
+      "price": 171
+    },
+    {
+      "id": 10,
+      "title": "Maharishi Ayurveda Triphala Churna",
+      "description": "Maharishi Ayurveda Triphala Churna is an Ayurvedic formulation that is renowned for its ability to reduce constipation and improve bowel movement. This potent blend supports gut health by supporting the body's natural detoxification and cleansing processes while promoting healthy digestion.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jpvhuuucmwkbrsvdcek8.jpg",
+      "price": 199
+    },
+    {
+      "id":11,
+      "title":"Sri Sri Tattva Chandraprabha Vati 300mg",
+      "description":"Sri Sri Tattva Chandraprabha Vati 300mg is an ayurvedic formulation that is known to have various spheres of action. It is primarily used to strengthen the urogenital system and is also considered to be an effective rejuvenator and promotes overall good health.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/ece4aeefe13248afba836a83ee1c1ca8.jpg",
+      "price":143
+    },
+    {
+      "id":12,
+      "title":"Hamdard Sharbat Aalu Balu",
+      "description":"Hamdard Sharbat Aalu Balu an ayurvedic formulation that helps to break the kidney stones into smaller pieces and hence effectively reduces the pain of kidney stone. It cleanses the kidney and leads to normal flow of urine. It also assists in treating gall bladder stones.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/08c2f30e45fa481cbd6535e211dd801c.jpg",
+      "price":210
+    },
+    {
+      "id":13,
+      "title":"Swisse Ultiboost High Strength Cranberry 25000mg Capsule",
+      "description":"Swisse Ultiboost High Strength Cranberry has been formulated with antioxidant-rich pacran, which is a unique-powdered form of the whole cranberry fruit. ",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/kokziptrbu8pgg86xpye.jpg",
+      "price":1000
+    },
+    {
+      "id":14,
+      "title":"Baidyanath (Jhansi) Bangeshwar Ras Tablet",
+      "description":"Baidyanath (Jhansi) Bangeshwar Ras Tablet is an Ayurvedic formulation that is available in a bottle containing 25 tablets. it is mentioned that Bangeshwar Ras from Baidyanath is an all-natural Ayurvedic formulation that can have a positive effect on blood glucose problems, urinary tract infections (UTIs), and sexual debilities.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/yxcvhhsey0rtiarxnwys.jpg",
+      "price":185
+    },
+    {
+      "id":15,
+      "title":"Baidyanath (Jhansi) Guduchi (Giloy) Ghanbati",
+      "description":"Baidyanath Jhansi Guduchi (Giloy) Ghanvati has giloy which is the stem of immortality is recommended in Ayurveda as immunity booster, it helps to treat chronic and recurrent infections and fever. It boosts the immune system and body's resistance against infections by increased bacterial clearance and phagocytic activity by neutrophils.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/bxoaxbx7irhijfftnap7.jpg",
+      "price":185
+    },
+    {
+      "id":16,
+      "title":"Tansukh Chandraprabha Vati",
+      "description":"Tansukh Chandraprabha Vati is an ayurvedic preparation containing chandraprabha and several aromatic, medicinal herbs. It is used to treat urogenital disorders such as urinary tract infection, difficulty in urination, urinary calculi.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/ci8sb4g3ak8wxptipc76.jpg",
+      "price":106
+    },
+    {
+      "id":17,
+      "title":"Pioneer Pharma P40 Albuminuria Drop",
+      "description":"Pioneer Pharma P40 Albuminuria Drop is a homoeopathic medicine that is indicated when the protein levels in the urine are high. It also treats symptoms like swelling of ankles, tummy, face or bubbly and frothy urine.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/sjjpfok61lknfgykhkag.jpg",
+      "price":107
+    },
+    {
+      "id":18,
+      "title":"Bjain Staphysagria Mother Tincture Q",
+      "description":"Bjain Staphysagria Mother Tincture is a homeopathic remedy is prepared from the seeds of the Staphysagria plant. Staphysagria is an effective remedy for emotional health.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/ac8dedf7016b4aecbcde7242549fa2aa.jpg",
+      "price":473
+    },
+    {
+      "id":19,
+      "title":"Decode Age ResVit Vegetarian Tablet",
+      "description":"As we get older, the sources and accumulation of damage increase drastically as inflammation increases, the immune system declines, and oxidation increases, making us vulnerable to various chronic diseases.",
+      "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/ebf37f82cf0343738809bfb10ec1a9ef.jpg",
+      "price":2850
+    }
+  
+   
+  ],
+  "EyeCare": [
+    {
+      "id": 1,
+      "title": "Dr Willmar Schwabe Germany Cineraria Maritima Without Alcohol Eye Drop",
+      "description": "Dr Willmar Schwabe Germany Cineraria Maritima Without Alcohol Eye Drop Homeopathic Medicine is an alcohol-free homoeopathic eye drop that relieves eye strain, fatigue, dryness and irritation caused by dust or long-term exposure to TV and computers.",
+      "image": "https://onemg.gumlet.io/l_watermark_346,w_120,h_120/a_ignore,w_120,h_120,c_fit,q_auto,f_auto/w1ryyeu6onuljmf6igtg.jpg",
+      "price": 181
+    },
+    {
+      "id": 2,
+      "title": "Dr Willmar Schwabe Germany Cineraria Maritima Schwabe Eye Drop",
+      "description": "Dr Willmar Schwabe Germany Cineraria Maritima Schwabe Eye Drop is an alcohol-free mother tincture that helps maintain healthy eyes. It helps manage dryness and concerns caused by long-term exposure to TV and computers.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/69fc9fe7-9fa0-47e8-a0f4-93a8b1d5edff.jpeg",
+      "price": 185
+    },
+    {
+      "id": 3,
+      "title": "Bjain Cineraria Maritima Dilution 6X",
+      "description": "Bjain Cineraria Maritima Dilution is a homeopathic remedy for eye care that provides soothing effect on the eyes. It prevents inflammation, eye irritation, useful in diseases like conjunctivitis and corneal opacities.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v3sieuxuhhvo8swhmeml.jpg",
+      "price": 114
+    },
+    {
+      "id": 4,
+      "title": "Allen Gastropep Digestive Tonic",
+      "description": "Allen Gastropep Digestive Tonic is useful in the case of gastrointestinal discomforts. The product is useful in the case of abdominal discomfort, gastralgia, indigestion, heart burn, constipation and hyperacidity.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/beyo7rvd2dcwqpfwvr91.jpg",
+      "price": 170
+    },
+    {
+      "id": 5,
+      "title": "Bjain Omeo Digestion Medicated Syrup Sugar Free",
+      "description": "Bjain Omeo Digestion Medicated Syrup Sugar Free is a homoeopathic formulation formulated for digestive ailments. It acts upon the glandular organs of the intestinal tracts and may help regulate the bile content and flow. ",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6fa1d7bd44f647c7a397f91488bca9b4.jpg",
+      "price": 678
+    },
+    {
+      "id": 6,
+      "title": "Allen's Entrodin Syrup",
+      "description": "Allen's Entrodin Syrup is a prominent homoeopathic medicine effectively manage diarrhoea and dysentery of mixed origin, flatulence, dyspepsia, indigestion and loss of appetite.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/jag0qdzxtpsalcy5jbk8.jpg",
+      "price": 140
+    },
+    {
+      "id": 7,
+      "title": "Bjain Omeo Digestion Medicated Syrup Sugar Free",
+      "description": "Bjain Omeo Digestion Medicated Syrup Sugar Free is a homoeopathic formulation formulated for digestive ailments. It acts upon the glandular organs of the intestinal tracts and may help regulate the bile content and flow.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/6fa1d7bd44f647c7a397f91488bca9b4.jpg",
+      "price": 168
+    },
+    {
+      "id": 8,
+      "title": "Haslab Syrup Digesto Sugar Free",
+      "description": "Haslab Digesto Syrup is a blend of homoeopathy ingredients that eliminate toxins and stimulate the excretory functions of the liver, kidneys, and colon.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cbf16d3fec9a414f88947ba970308cb4.jpg",
+      "price": 189
+    },
+    {
+      "id": 9,
+      "title": "Prabhat Ayurvedic Pharmacy Eye Drops",
+      "description": "Prabhat Ayurvedic Pharmacy Eye Drops is a formulation that can help improve and maintain eye health. It can help deal with soreness and strain of the eyes. Moreover, it can provide relief from minor eye issues like conjunctivitis.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/hdhqyuj7jx3m9sk88zfg.jpg",
+      "price": 135
+    },
+    {
+      "id": 10,
+      "title": "Hapdco I-Jyoti Ayurvedic Eye Drop",
+      "description": "Hapdco I-Jyoti Ayurvedic Eye Drop is an Ayurvedic formulation that helps improve eyesight. It is beneficial in the case of overstrained eyes.",
+      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rygrsyx41duydld76fly.jpg",
+      "price": 54
+    },
+    {
+      "id":11,
+      "title":"Klar Eye K 111 Quik Smartphone Power Reading Glasses",
+     "description":"Klar Eye K-111 Reading Eyeglasses are temple-less reading glasses that help in correcting presbyopia. These glasses are suitable for people who need vision correction for nearby objects and short distances. They are available in different colours and power levels. They do not work for distant viewing.",
+     "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/36180244ca524dc798fc976d4ed0d077.jpg",
+     "price":1109
+    },
+    {
+      "id":12,
+      "title":"Vitaminnica Omega 3 1000mg Double Strength Fish Oil",
+     "description":"Vitaminnica Omega 3 1000mg Softgel contains omega 3, a type of fat that the body requires for survival but cannot produce on its own. Omega 3 fatty acids provide an adequate amount of EPA and DHA, a great way to improve overall brain and body function and well-being. They consist of EPA and DHA.",
+     "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/066b84ecdb5b48819ab73d30792e0f96.jpg",
+     "price":1245
+    },
+    {
+      "id":13,
+      "title":"Hiral Health Viz 9 Tablet (60 Each)",
+     "description":"Hiral Health Viz 9 Tablet is a unique blend of carotenoids, antioxidants, keto-carotenoids, vitamins and minerals that are well known for maintaining healthy eyes and vision.",
+     "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/e29029d14d744c99981735b8226940b6.jpg",
+     "price":1494
+    },
+    {
+      "id":14,
+      "title":"Zingavita Multivitamin Gummies with Honey Mixed Fruit",
+     "description":"Introducing Zingavita DHA multivitamin gummies for kids sweetened with honey. With the goodness of 24+ essential vitamins, herbal extracts, fruits and vegetables blend, these gummies support holistic well-being of your children by improving their immunity, cognitive health, bone density and digestion.",
+     "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/81952f7371d5422fa5b2ff7a42fc874a.jpg",
+     "price":448
+    },
+    {
+      "id":15,
+      "title":"Purecon Puresoft Soft Contact Lens Solution",
+     "description":"Purecon Puresoft Soft Contact Lens Solution is a comprehensive and gentle solution designed for individuals with sensitive eyes. Offering a complete set of benefits, it serves as a versatile solution for contact lens care by facilitating cleaning, storing, rinsing, rewetting, lubrication, disinfection, and protein removal.",
+     "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cropped/ljke2eoru9nwugwgizdy.jpg",
+     "price":200
+    },
+    {
+      "id":16,
+      "title":"Renu Advanced Formula Solution",
+     "description":"Renu Advanced Formula Solution is a one-step multi-action lens care solution for scleral and rigid contact lenses. Daily, it eliminates protein deposits. Store, disinfect, clean, rinse and recondition rigid contact lenses with this multi-action solution.",
+     "image":"https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vvrzkbopfpdviwvq39um.jpg",
+     "price":310
+    },
+    {
+      "id":17,
+      "title":"Optify Supersoft Optical Power -4",
+     "description":"Optify Supersoft Contact Lens optical power is made through a novel polymerisation technique together with using the high purity monomers to produce the poly macon range of FDA-approved soft contact lens material.",
+     "image":"https://onemg.gumlet.io/a_ignore,w_150,h_150,c_fit,q_auto,f_auto/cbda15c63fdb48b2838d5800a24b516c.jpg",
+     "price":1800
+    }
+   
+    
+  ]
+}

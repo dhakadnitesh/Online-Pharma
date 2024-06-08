@@ -1,0 +1,196 @@
+body {
+  background-color: #f6f6f6;
+}
+
+#HealthPage {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: -15px;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.img1 {
+  width: 120px;
+}
+.p1 {
+  font-size: 15px;
+  text-align: center;
+  margin-top: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  /* color: #5f2121; */
+}
+
+.a1 {
+  /* display: inline-block;  */
+  /* box-sizing: border-box;  */
+  padding: 10px;
+  border: 1px solid transparent;
+  /* transition: all 0.3s ease;  */
+}
+
+.a1:hover {
+  border-color: rgba(9, 30, 66, 0.25);
+  border-radius: 10px;
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px,
+    rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+}
+
+/* Ayurveda */
+.Ayurveda {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: -15px;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.Ayurveda-Img {
+  width: 150px;
+  border-radius: 10px;
+}
+
+.Ayurveda-p {
+  font-size: 15px;
+  text-align: center;
+  margin-top: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.Ayurveda1 {
+  padding: 10px;
+  border: 1px solid transparent;
+}
+
+.Ayurveda1:hover {
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  border: 1px solid lightblue;
+}
+
+/*  */
+/* Featured brand */
+.Featured-brands {
+  border: 1px solid white;
+  margin-top: -12px;
+  display: flex;
+  justify-content: space-evenly;
+  /* height: 210px; */
+  text-align: center;
+  
+  /* background-color: #ffffff; */
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.Featured-brands-img {
+  width: 130px;
+  height: 130px;
+  margin-top: 30px;
+  padding: 10px;
+  border: 1px solid transparent;
+  margin-bottom: 50px;
+}
+.Featured-brands-img:hover {
+  cursor: pointer;
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px,
+    rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+  border-color: rgba(9, 30, 66, 0.25);
+  border-radius: 10px;
+}
+
+/* Ayurveda Top Brand */
+.Ayurveda-Top-Brand {
+  border: 1px solid white;
+  margin-top: -12px;
+  display: flex;
+  justify-content: space-evenly;
+  /* height: 210px; */
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.Ayurveda-Top-Brand-Img {
+  width: 130px;
+  height: 130px;
+  margin-top: 30px;
+  padding: 10px;
+  border: 1px solid transparent;
+  margin-bottom: 50px;
+}
+.Ayurveda-Top-Brand-Img:hover {
+  cursor: pointer;
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px,
+    rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+  border-color: rgba(9, 30, 66, 0.25);
+  border-radius: 10px;
+}
+
+/* Health care top brand */
+
+.Health-Care-Top-Brand {
+  border: 1px solid white;
+  margin-top: -12px;
+  display: flex;
+  justify-content: space-evenly;
+  /* height: 210px; */
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.Health-Care-Top-Brand-Img {
+  width: 130px;
+  height: 130px;
+  margin-top: 30px;
+  padding: 10px;
+  border: 1px solid transparent;
+  margin-bottom: 50px;
+}
+
+.Health-Care-Top-Brand-Img:hover {
+  cursor: pointer;
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px,
+    rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+  border-color: rgba(9, 30, 66, 0.25);
+  border-radius: 10px;
+}
+
+/* Ayurveda */
+
+/* Media Query for all the Parameter */
+
+@media screen and (min-width: 150px) and (max-width: 780px) {
+  #HealthPage {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  .Ayurveda {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .Featured-brands {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .Ayurveda-Top-Brand{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .Health-Care-Top-Brand {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
