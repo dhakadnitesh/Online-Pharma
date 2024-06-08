@@ -26,7 +26,7 @@ export default function HeartCareView() {
   async function fetchHeartCareData(id) {
     setLoading(true);
     try {
-      let res = await axios.get(`http://localhost:3000/HeartCare/${id}`);
+      let res = await axios.get(`https://online-pharma-backend-server-1.onrender.com/HeartCare/${id}`);
       setHeartCare(res.data);
       setLoading(false);
       setError(false);

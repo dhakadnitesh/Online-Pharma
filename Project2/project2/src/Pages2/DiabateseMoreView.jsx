@@ -45,7 +45,7 @@ export default function DiabateseView(){
       
       let res = await axios({
         method: "get",
-        url: `http://localhost:3000/Diabetes/${id}`,
+        url: `https://online-pharma-backend-server-1.onrender.com/Diabetes/${id}`,
         
       });
     //   console.log(res?.data);

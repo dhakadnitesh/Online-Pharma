@@ -95,7 +95,7 @@ export default function EyeCare() {
       }
       let res = await axios({
         method: "get",
-        url: `http://localhost:3000/EyeCare`,
+        url: `https://online-pharma-backend-server-1.onrender.com/EyeCare`,
         params:queryParams
       });
       console.log(res?.data);

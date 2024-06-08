@@ -20,7 +20,7 @@ export default function Signup() {
     try {
       let res = await axios({
         method: "post",
-        url: `http://localhost:3000/Users`,
+        url: `https://online-pharma-backend-server-1.onrender.com/Users`,
         data: user, 
       });
 

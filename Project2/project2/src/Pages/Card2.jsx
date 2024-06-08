@@ -42,7 +42,7 @@ export  default function CardPage2(){
 
         let res = await axios({
             method:"get",
-            url:`http://localhost:3000/HeartCare/${id}`
+            url:`https://online-pharma-backend-server-1.onrender.com/HeartCare/${id}`
             
         })
 

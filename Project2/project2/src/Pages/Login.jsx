@@ -19,7 +19,7 @@ export default function Login() {
     try {
       let res = await axios({
         method: "get",
-        url: `http://localhost:3000/Users`,
+        url: `https://online-pharma-backend-server-1.onrender.com/Users`,
       });
       console.log(res);
       const userFound = res?.data.find(

@@ -94,7 +94,7 @@ export default function StomachCare() {
       }
       let res = await axios({
         method: "get",
-        url: `http://localhost:3000/StomachCare`,
+        url: `https://online-pharma-backend-server-1.onrender.com/StomachCare`,
         params:queryParams
       });
       setStomachCare(res?.data);

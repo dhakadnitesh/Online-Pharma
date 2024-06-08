@@ -33,7 +33,7 @@ export default function EyeCareView(){
         try {
             let res =  await axios({
                 method:"get",
-                url:`http://localhost:3000/EyeCare/${id}`
+                url:`https://online-pharma-backend-server-1.onrender.com/EyeCare/${id}`
             })
 
             //  console.log(res?.data)

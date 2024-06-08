@@ -102,7 +102,7 @@ export default function LiverCare(){
 
             let res = await axios({
                 method:"get",
-                url:`http://localhost:3000/LiverCare`,
+                url:`https://online-pharma-backend-server-1.onrender.com/LiverCare`,
                 params:queryParams
 
             })

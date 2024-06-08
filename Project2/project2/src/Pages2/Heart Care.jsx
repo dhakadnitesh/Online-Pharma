@@ -93,7 +93,7 @@ export default function HeartCare() {
 
       let res = await axios({
         method: "get",
-        url: `http://localhost:3000/HeartCare`,
+        url: `https://online-pharma-backend-server-1.onrender.com/HeartCare`,
         params: queryParams,
       });
       console.log(res?.data);

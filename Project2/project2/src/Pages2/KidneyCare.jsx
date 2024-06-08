@@ -97,7 +97,7 @@ export default function KidneyCare(){
 
             let res = await axios({
                 method:"get",
-                url:`http://localhost:3000/KidneyCare`,
+                url:`https://online-pharma-backend-server-1.onrender.com/KidneyCare`,
                 params:queryParams
             })
             setKidneyCare(res?.data)
