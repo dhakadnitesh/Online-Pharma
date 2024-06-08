@@ -1,3 +1,8 @@
+[build]
+  base = "frontend"  # Change this to your project's subdirectory if applicable
+  publish = "frontend/dist"
+  command = "npm run build"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
@@ -7,8 +12,3 @@
   for = "/*.js"
   [headers.values]
     Content-Type = "application/javascript"
-
-[build]
-  node_version = "14.17.0"
-  publish = "dist"  # Ensure to specify the publish directory
-  command = "npm run build"  # Specify the build command
