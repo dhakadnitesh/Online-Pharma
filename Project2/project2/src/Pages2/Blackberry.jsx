@@ -25,7 +25,7 @@ export default function Blackberry() {
           anti-inflammatory activity. Consuming Blackberry on a daily basis
           reduces the level of blood glucose due to its anti-diabetic property.
           Applying Blackberry leaf powder face pack reduces the formation of
-          wrinkles, acne, boils and helps keep healthy skin. Blackberry leaves
+          wrinkles, acne, boils and helps keep . Blackberry leaves
           help in the fast healing of mouth ulcers due to its astringent
           property[1][2].
         </p>
